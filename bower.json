@@ -2,12 +2,13 @@
   "name": "ueditor-build",
   "description": "ueditor",
   "main": "ueditor",
+  "version": "v1.4.3.3",
   "authors": [
     "chenyinxin"
   ],
   "license": "MIT",
   "homepage": "https://github.com/chenyinxin/ueditor",
-  "private": true,
+  "private": false,
   "ignore": [
     "**/.*",
     "node_modules",
